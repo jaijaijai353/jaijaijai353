@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/jai-narula-aa3185242/">
     <img src="https://img.shields.io/badge/LinkedIn-Jai%20Narula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://jai-portfolio-solar.vercel.app/">
+  <a href="https://jai-portfolio-solar-ztkf.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:jai.narula08@gmail.com">
