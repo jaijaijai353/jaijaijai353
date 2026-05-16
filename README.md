@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/jai-narula-aa3185242/">
     <img src="https://img.shields.io/badge/LinkedIn-Jai%20Narula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://jai-portfolio-solar-ztkf.vercel.app/">
+  <a href="https://jai-narula-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:jai.narula08@gmail.com">
@@ -90,7 +90,7 @@ Exploratory data analysis across 5,000+ Netflix titles. Cleaned raw data, handle
 
 Modern portfolio site with 3D animation, smooth scroll interactions, and a clean project showcase layout.
 
-🔗 **[jai-portfolio-solar.vercel.app](https://jai-portfolio-solar.vercel.app/)**
+🔗 **[jai-portfolio.app](https://jai-narula-portfolio.vercel.app/)**
 
 ---
 
